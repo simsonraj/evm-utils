@@ -1,0 +1,25 @@
+{
+  "name": "simson",
+  "version": "1.0.0",
+  "description": "evm utilities to generate wallet or key and interact with smart contract and listen to events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "evm",
+    "ethereum",
+    "js",
+    "web3",
+    "ERC20",
+    "javascript"
+  ],
+  "author": "simsonraj",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "ethereumjs-wallet": "^1.0.2",
+    "ethers": "^5.7.0",
+    "keythereum": "^2.0.0",
+    "web3": "^1.7.5"
+  }
+}
